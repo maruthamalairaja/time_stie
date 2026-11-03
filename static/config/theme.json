@@ -1,0 +1,33 @@
+{
+  "name": "Orange & White Modern",
+  "description": "Clean, high-contrast Orange & White theme with smooth rounded corners.",
+  "colors": {
+    "bg": "#faf7f5",
+    "bgElevated": "#ffffff",
+    "bgInset": "#fff7ed",
+    "border": "#fed7aa",
+    "borderStrong": "#fdba74",
+    "accent": "#f97316",
+    "accentStrong": "#ea580c",
+    "accentSoft": "rgba(249, 115, 22, 0.1)",
+    "wine": "#ea580c",
+    "text": "#1e293b",
+    "textMuted": "#64748b",
+    "textFaint": "#94a3b8",
+    "success": "#16a34a",
+    "warning": "#f59e0b",
+    "danger": "#ef4444"
+  },
+  "fonts": {
+    "display": "'Space Grotesk', 'Segoe UI', sans-serif",
+    "body": "'Inter', 'Segoe UI', sans-serif",
+    "mono": "'JetBrains Mono', 'Fira Code', monospace"
+  },
+  "radius": {
+    "xs": "8px",
+    "sm": "12px",
+    "md": "18px",
+    "lg": "24px",
+    "pill": "9999px"
+  }
+}
