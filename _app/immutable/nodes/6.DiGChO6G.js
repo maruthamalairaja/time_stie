@@ -1,0 +1,1 @@
+import{r as e}from"../chunks/B9dDQikb.js";import{b as r}from"../chunks/DReU_qSv.js";const o=!0;function t(){throw e(307,`${r}/fundamentals/add-duration`)}const d=Object.freeze(Object.defineProperty({__proto__:null,load:t,prerender:o},Symbol.toStringTag,{value:"Module"}));export{d as universal};

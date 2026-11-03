@@ -1,0 +1,1 @@
+import{r as e}from"../chunks/B9dDQikb.js";import{b as r}from"../chunks/DReU_qSv.js";const t=!0;function o(){throw e(307,`${r}/nano-utc/datetime`)}const i=Object.freeze(Object.defineProperty({__proto__:null,load:o,prerender:t},Symbol.toStringTag,{value:"Module"}));export{i as universal};
